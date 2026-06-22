@@ -19,12 +19,12 @@ Explore the dynamic behavior, layout adaptations, and interactive segments of th
 ## 📸 Interface Preview Gallery
 
 ### Core Hero Entry & User Portal
-![Primary Welcome Banner](assets/images/homepage.png)
+![Primary Welcome Banner](assests/images/homepage.png)
 
 ### Content Display Grid Elements
 | Feature Adaptations | Smart Offline Management |
 | :---: | :---: |
-| ![Media Stream Segment](assets/images/showcase.png) | ![Storage Interfacing Graphic](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png) |
+|![Media Stream Segment](assests/images/showcase.png)| ![Storage Interfacing Graphic](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png) |
 
 ### Device Profiles & Curation Lists
 | Universal Ecosystem Reach | Tailored Profile Directories |
