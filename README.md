@@ -19,12 +19,12 @@ Explore the dynamic behavior, layout adaptations, and interactive segments of th
 ## 📸 Interface Preview Gallery
 
 ### Core Hero Entry & User Portal
-![Primary Welcome Banner](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
+![Primary Welcome Banner](assets/images/homepage.png)
 
 ### Content Display Grid Elements
 | Feature Adaptations | Smart Offline Management |
 | :---: | :---: |
-| ![Media Stream Segment](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png) | ![Storage Interfacing Graphic](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png) |
+| ![Media Stream Segment](assets/images/showcase.png) | ![Storage Interfacing Graphic](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png) |
 
 ### Device Profiles & Curation Lists
 | Universal Ecosystem Reach | Tailored Profile Directories |
@@ -36,8 +36,7 @@ Explore the dynamic behavior, layout adaptations, and interactive segments of th
 | :---: | :---: |
 | ![Accordion Container View](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png) | ![Footer Index Directory Tree](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png) |
 
----
-
-
----
+### Interactive Expandable Panels & Footers
+| INNER PROFILE PAGE
+![Profile Image](assets/images/Profiles.png)
 
