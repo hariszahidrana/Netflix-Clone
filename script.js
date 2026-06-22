@@ -1,0 +1,1 @@
+alert("Netflix Says Hello! Welcome to the Netflix Clone project. Enjoy your streaming experience!");
