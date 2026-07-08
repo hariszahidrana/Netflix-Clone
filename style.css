@@ -358,7 +358,7 @@ nav button.btn:active {
 }
 
 .reasons-custom-container {
-  max-width: 1650px;
+  max-width: 1540px;
   margin: auto;
   margin-left: 200px; /* Perfectly aligns with your trending section margin */
   padding: 4%;
@@ -479,6 +479,7 @@ nav button.btn:active {
   display: flex;
   flex-direction: column;
   gap: 8px; /* Gap between separate accordion rows */
+  max-width: 1382px;
 }
 
 .faq-item {
